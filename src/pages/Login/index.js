@@ -3,6 +3,7 @@ import React from "react";
 import { Img, Text } from "components";
 import { useNavigate } from "react-router-dom";
 
+
 const LoginPage = () => {
   const navigate = useNavigate();
 
