@@ -53,7 +53,7 @@ const LandingPagePage = () => {
                     className="absolute h-[821px] inset-x-[0] mx-[auto] object-cover top-[0] md:w-[100%] sm:w-[100%] w-[auto]"
                     alt="circles"
                   />
-                  <div className="absolute flex sm:flex-col flex-row gap-[11px] items-start justify-start left-[0] pr-[166px] sm:pr-[20px] md:pr-[40px] rotate-[180deg] top-[0] w-[43%]">
+                  <div className="absolute flex sm:flex-col flex-row gap-[11px] items-start justify-start left-[0] pr-[166px] sm:pr-[20px] md:pr-[40px] top-[0] w-[43%]">
                     <div className="backdrop-opacity-[0.5] blur-[100.00px] h-[516px] md:h-[540px] sm:h-[540px] relative sm:w-[100%] w-[77%]">
                       <Img
                         src="images/img_eclipse.png"
